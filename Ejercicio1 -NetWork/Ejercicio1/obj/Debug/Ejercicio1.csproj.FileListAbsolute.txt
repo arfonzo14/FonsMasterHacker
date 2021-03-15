@@ -1,0 +1,14 @@
+C:\Users\Raúl_SF\source\repos\SERV\Tema3-Networking\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Raúl_SF\source\repos\SERV\Tema3-Networking\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Raúl_SF\source\repos\SERV\Tema3-Networking\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Raúl_SF\source\repos\SERV\Tema3-Networking\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Raúl_SF\source\repos\SERV\Tema3-Networking\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Raúl_SF\source\repos\SERV\Tema3-Networking\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Raúl_SF\source\repos\SERV\Tema3-Networking\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+D:\Tema3-Networking\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+D:\Tema3-Networking\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+D:\Tema3-Networking\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+D:\Tema3-Networking\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+D:\Tema3-Networking\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Tema3-Networking\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+D:\Tema3-Networking\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
