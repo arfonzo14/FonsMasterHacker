@@ -1,0 +1,7 @@
+C:\Users\arfon\source\repos\Ejercicio1RepasoJunio2021\Ejercicio1RepasoJunio2021\bin\Debug\Ejercicio1RepasoJunio2021.exe.config
+C:\Users\arfon\source\repos\Ejercicio1RepasoJunio2021\Ejercicio1RepasoJunio2021\bin\Debug\Ejercicio1RepasoJunio2021.exe
+C:\Users\arfon\source\repos\Ejercicio1RepasoJunio2021\Ejercicio1RepasoJunio2021\bin\Debug\Ejercicio1RepasoJunio2021.pdb
+C:\Users\arfon\source\repos\Ejercicio1RepasoJunio2021\Ejercicio1RepasoJunio2021\obj\Debug\Ejercicio1RepasoJunio2021.csprojAssemblyReference.cache
+C:\Users\arfon\source\repos\Ejercicio1RepasoJunio2021\Ejercicio1RepasoJunio2021\obj\Debug\Ejercicio1RepasoJunio2021.csproj.CoreCompileInputs.cache
+C:\Users\arfon\source\repos\Ejercicio1RepasoJunio2021\Ejercicio1RepasoJunio2021\obj\Debug\Ejercicio1RepasoJunio2021.exe
+C:\Users\arfon\source\repos\Ejercicio1RepasoJunio2021\Ejercicio1RepasoJunio2021\obj\Debug\Ejercicio1RepasoJunio2021.pdb
